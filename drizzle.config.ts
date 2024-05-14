@@ -5,7 +5,7 @@ export default {
   driver: 'pg',
   dbCredentials: {
     connectionString:
-      'postgresql://towhidkarim123:ukbX1ZY2deTj@ep-soft-dream-a13oewxm.ap-southeast-1.aws.neon.tech/neondb?sslmode=require',
+      '',
   },
   verbose: true,
   strict: true,
